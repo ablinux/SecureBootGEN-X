@@ -1,0 +1,21 @@
+14:35:45 **** Incremental Build of configuration Default for project dev_ssp ****
+scons.bat -k "--build=A:\\tel_ams_repository\\dev_projects\\dev_ssp\\projects\\r_qspi.xml" --warn=no-visual-c-missing 
+scons: Reading SConscript files ...
+running with -j 4
+ENV: IAR 'bin' folder:  C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0 EWSYN\arm\bin
+ENV: GCC 'bin' folder:  C:\Program Files (x86)\GNU Tools ARM Embedded\4.9 2015q3\bin
+ENV: LDRA helper folder:  
+Building dev_projects/dev_ssp/build/s7g2_dk/gcc/build_r_qspi_debug
+Building dev_projects/dev_ssp/build/s7g2_sk/gcc/build_r_qspi_debug
+Building dev_projects/dev_ssp/build/s5d9_pk/gcc/build_r_qspi_debug
+Building dev_projects/dev_ssp/build/s3a7_dk/gcc/build_r_qspi_debug
+Building dev_projects/dev_ssp/build/s3a3_adk/gcc/build_r_qspi_debug
+Building dev_projects/dev_ssp/build/s5d5_tbb/gcc/build_r_qspi_debug
+Building dev_projects/dev_ssp/build/s3a1_adk/gcc/build_r_qspi_debug
+Building dev_projects/dev_ssp/build/s7g2_dk/iar/build_r_qspi_debug
+Building dev_projects/dev_ssp/build/s7g2_sk/iar/build_r_qspi_debug
+Building dev_projects/dev_ssp/build/s5d9_pk/iar/build_r_qspi_debug
+Building dev_projects/dev_ssp/build/s3a7_dk/iar/build_r_qspi_debug
+Building dev_projects/dev_ssp/build/s3a3_adk/iar/build_r_qspi_debug
+Building dev_projects/dev_ssp/build/s5d5_tbb/iar/build_r_qspi_debug
+Building
